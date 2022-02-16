@@ -1,5 +1,6 @@
 header {
     position: absolute;
+    width: 980px;
     height: 87px;
     left: 0px;
     top: 0px;
@@ -212,6 +213,7 @@ header p{
 }
 footer {
     position: absolute;
+    width: 980px;
     height: 133px;
     left: 0px;
     top: 1139px;
