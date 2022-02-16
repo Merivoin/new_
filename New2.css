@@ -1,0 +1,235 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    position: absolute;
+    width: 980px;
+    height: 110px;
+    left: 0px;
+    top: 0px;
+    background: #B4D7DC;
+}
+header p {
+    position: absolute;
+    width: 294px;
+    height: 31px;
+    left: 116px;
+    top: 44px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    color: #636A7E;
+}
+.alpha{
+    position: absolute;
+    width: 238px;
+    height: 28px;
+    left: 371px;
+    top: 105px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #576F73;
+}
+.beta {
+    position: absolute;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #576F73;
+    width: 776px;
+    height: 90px;
+    left: 102px;
+    top: 140px;
+    background: #BBC4E0;
+    border-radius: 5px;
+}
+.gamma {
+    position: absolute;
+    width: 180px;
+    height: 142px;
+    left: 56px;
+    top: 252px;
+    background: url(6e4add6c6cc7f8013fc9114c52501b56.jpg);
+    border: 10px solid #CDE5D2;
+    box-sizing: border-box;
+}
+.delta {
+    position: absolute;
+    width: 180px;
+    height: 142px;
+    left: 380px;
+    top: 252px;
+    background: url(DUoOjTNWsAI-BOp.jpg);
+    border: 10px solid #CDE5D2;
+    box-sizing: border-box;
+}
+.epsilon {
+    position: absolute;
+    width: 180px;
+    height: 142px;
+    left: 730px;
+    top: 252px;
+    background: url(OTNA-Oddds-The-New-Anthropology-1.jpg);
+    border: 10px solid #CDE5D2;
+    box-sizing: border-box;
+}
+.zeta {
+    position: absolute;
+    width: 152px;
+    height: 28px;
+    left: 394px;
+    top: 415px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #576F73;
+
+}
+.eta {
+    position: absolute;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #576F73;
+    width: 828px;
+    height: 110px;
+    left: 76px;
+    top: 452px;
+    background: #BBC4E0;
+    border-radius: 5px;
+}
+.tehta {
+    position: absolute;
+    width: 86px;
+    height: 28px;
+    left: 447px;
+    top: 755px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #576F73;
+}
+.iota {
+    position: absolute;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #576F73;
+    width: 824px;
+    height: 110px;
+    left: 78px;
+    top: 795px;
+    background: #BBC4E0;
+    border-radius: 5px;
+}
+.kappa {
+    position: absolute;
+    width: 180px;
+    height: 142px;
+    left: 56px;
+    top: 589px;
+    background: url(bf27843da4c357ec687169f3b230e855.jpg);
+    border: 10px solid #CDE5D2;
+    box-sizing: border-box;
+}
+.lambda {
+    position: absolute;
+    width: 180px;
+    height: 142px;
+    left: 380px;
+    top: 589px;
+    background: url(i.jpg);
+    border: 10px solid #CDE5D2;
+    box-sizing: border-box;
+}
+.mu {
+    position: absolute;
+    width: 180px;
+    height: 130px;
+    left: 730px;
+    top: 589px;
+    background: url(1619827228_26-phonoteka_org-p-fon-dlya-portfolio-minimalizm-35.jpg);
+    border: 10px solid #CDE5D2;
+    box-sizing: border-box;
+}
+.nu {
+    position: absolute;
+    width: 180px;
+    height: 142px;
+    left: 56px;
+    top: 930px;
+    background: url(31eab0e54d4edf53f9bf7042e29be525--pop-art-portraits-madonna-art.jpg);
+    border: 10px solid #CDE5D2;
+    box-sizing: border-box;
+}
+.xi {
+    position: absolute;
+    width: 180px;
+    height: 142px;
+    left: 400px;
+    top: 930px;
+    background: url(1625667208_30-phonoteka-org-p-stil-pop-art-v-graficheskom-dizaine-krasiv-30.jpg);
+    border: 10px solid #CDE5D2;
+    box-sizing: border-box;
+}
+.omicron {
+    position: absolute;
+    width: 180px;
+    height: 142px;
+    left: 730px;
+    top: 930px;
+    background: url(1625667229_17-phonoteka-org-p-stil-pop-art-v-graficheskom-dizaine-krasiv-17.jpg);
+    border: 10px solid #CDE5D2;
+    box-sizing: border-box;
+}
+footer {
+    position: absolute;
+    width: 980px;
+    height: 96px;
+    left: 0px;
+    top: 1176px;
+    background: #B4D7DC;
+}
+.pi {
+    text-decoration: none;
+    position: absolute;
+    width: 320px;
+    height: 21px;
+    left: 88px;
+    top: 50px;
+    color: #636A7E;
+    background: #BBE5C2;
+    border-radius: 10px;
+}
+.rho {
+    text-decoration: none;
+    position: absolute;
+    width: 270px;
+    height: 21px;
+    left: 600px;
+    top: 50px;
+    color: #636A7E;
+    background: #BBE5C2;
+    border-radius: 10px;
+}
