@@ -1,0 +1,163 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    position: absolute;
+    width: 980px;
+    height: 110px;
+    left: 0px;
+    top: 0px;
+    background: #B4D7DC;
+}
+header p {
+    position: absolute;
+    width: 294px;
+    height: 31px;
+    left: 116px;
+    top: 44px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    color: #636A7E;
+}
+h1 {
+    position: absolute;
+    width: 497px;
+    height: 42px;
+    left: 241px;
+    top: 150px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    color: #576F73;
+}
+h2 {
+    position: absolute;
+    width: 448px;
+    height: 28px;
+    left: 266px;
+    top: 222px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #576F73;
+}
+img {
+    position: absolute;
+    width: 266px;
+    height: 202px;
+    left: 88px;
+    top: 323px;
+    background: url(2cf2423cbda24de08520cee0f2db48cf.jpg);
+    border: 10px solid #CDE5D2;
+    box-sizing: border-box; 
+}
+.и {
+    position: absolute;
+    width: 266px;
+    height: 202px;
+    left: 642px;
+    top: 323px;
+    background: url(335581132324b3569bbedc0fb4cdb3fc--in-the-mood-throwback-thursday.jpg);
+    border: 10px solid #CDE5D2;
+    box-sizing: border-box;
+}
+.ии {
+    position: absolute;
+    width: 458px;
+    height: 196px;
+    left: 261px;
+    top: 604px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #576F73;
+    background: #BBC4E0;
+    border-radius: 50px;
+}
+.иии {
+    position: absolute;
+    width: 724px;
+    height: 56px;
+    left: 128px;
+    top: 864px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #636A7E;
+    background: #CDE5D2;
+    border-radius: 40px;
+}
+.ииии {
+    position: absolute;
+width: 86px;
+height: 130px;
+left: 68px;
+top: 965px;
+
+    background: url(1617691878_27-p-gori-art-art-kartinki-28.jpg);
+    border: 10px solid #F4DDC7;
+    box-sizing: border-box;
+}
+.иииии {
+    position: absolute;
+    width: 328px;
+    height: 130px;
+    left: 326px;
+    top: 965px;
+    background: url(digital-painting-sunset-landscape-lake-mountains-rmRadev-Firewatch-mountain-chain-trees-2048119.jpg);
+    border: 10px solid #F4DDC7;
+    box-sizing: border-box;
+}
+.ииииии {
+    position: absolute;
+    width: 86px;
+    height: 130px;
+    left: 822px;
+    top: 965px;
+    background: url(EoFC7VrXMAECXDI.jpg);
+    border: 10px solid #F4DDC7;
+    box-sizing: border-box;
+}
+footer {
+    position: absolute;
+    width: 980px;
+    height: 133px;
+    left: 0px;
+    top: 1139px;
+    background: #B4D7DC;
+}
+.ииииииии {
+    text-decoration: none;
+    position: absolute;
+    width: 320px;
+    height: 21px;
+    left: 88px;
+    top: 50px;
+    color: #636A7E;
+    background: #BBE5C2;
+    border-radius: 10px;
+}
+.иииииииииии {
+    text-decoration: none;
+    position: absolute;
+    width: 270px;
+    height: 21px;
+    left: 600px;
+    top: 50px;
+    color: #636A7E;
+    background: #BBE5C2;
+    border-radius: 10px;
+}
